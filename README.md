@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard Kaverinskyi</h1>
 <h3 align="center">Everything Python | Web Dev | Learning DevOps | Intrigued by ML and AI</h3>
 
-- 🔭 I’m currently working on **Project Watcher**
-
-- 🌱 I’m currently learning **Django, Celery**
+- 🌱 I’m currently learning **Full Stack Development**
 
 <hr>
 
